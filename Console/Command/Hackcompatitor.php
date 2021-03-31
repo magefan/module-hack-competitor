@@ -47,6 +47,8 @@ class Hackcompatitor extends Command
         $output->writeln('<info>HAPPY APRIL FOOLS DAY :-)</info>');
         $output->writeln('<info>P.S.: You have strong nerves thanks to DI compile and static content deployment.</info>');
         $output->writeln('<info></info>');
+        $output->writeln('<comment>Share: https://github.com/magefan/module-hack-competitor</comment>');
+        $output->writeln('<info></info>');
     }
 
     /**
