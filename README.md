@@ -72,4 +72,5 @@ Open Software License ("OSL") v. 3.0
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
+  * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
 
