@@ -1,5 +1,7 @@
 # Magento 2 Hack Competitor Extension by [Magefan](https://magefan.com)
 
+<a href="https://www.comebackalive.in.ua/donate"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
+
 Few people know that almost every website in the world has a vulnerability that can be exploited once a year and only on April 1.
 Using this simple Magento 2 extension you can hack your competitor's website and get the business advantage.
 
