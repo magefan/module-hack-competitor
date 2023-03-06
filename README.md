@@ -112,6 +112,7 @@ Open Software License ("OSL") v. 3.0
   
   ### Shopware Extensions
   * [Shopware WebP Extension](https://magefan.com/shopware/extensions/webp)
+  * [Shopware Blog Extension](https://magefan.com/shopware/extensions/blog)
    
   ### Shopify Apps
   * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
